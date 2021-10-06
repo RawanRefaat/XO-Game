@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1588015178 source:e:\xo\main.cpp
+	<iostream>
+	"game.h"
+
+1588014973 e:\xo\game.h
+	<iostream>
+	<string>
+
+1588014990 source:e:\xo\xo.cpp
+	<iostream>
+	"game.h"
+
